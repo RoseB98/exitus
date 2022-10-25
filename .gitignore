@@ -1,0 +1,6 @@
+# dependencies client
+client/node_modules
+
+
+# dependencies server
+server/node_modules
